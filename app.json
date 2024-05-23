@@ -1,7 +1,7 @@
 {
-    "name": "Inflex Music Bot",
+    "name": " SANATANI x MUSIC ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/d6a63fe91240f0b271f7f.jpg",
+    "logo": "https://graph.org/file/c2f247db74e0f00579fc8.mp4",
     "keywords": [
     "python3",
     "telegram",
@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "27516268",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "6fbb99596377f082fe252091a023aa33",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6732289806:AAGEjq0k-4O-luJkEOhiJFZgKghzTY4JDH8",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Hello:<password>@cluster0.6e51bpk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6713421664",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session .",
-        "value": "",
+        "value": "BQAnovPD_uVU5laCfnpBXLtRAoVTdKVu9BbPyP3kxVKTpBhoRmcvh2MTZvn5pxU0x3M2Y-_wtyIgQlvgjPp_02gWeiXMAxN1d_Erq1M-RctRfZ21WmniQiPnKS6GNCF2AepL6IegGWFPtbM2Ms8MOGP5-aW14AmLyOb6_HI5Ezo5cax6SbgPHdsmTSzwXBBPpTTH_fBVv-L-0vSZLfNoVadzerfuUBpcZMSQaRohjTd0V9Cf5_X2WVwE1TEZd5GEQngr4KY3TXnNeYCYfoznJqS3NaxMatj29p3rtgG9RiG-C971PKqe6AVbngGqesZjo9-TY2LoSR0B8gCH0PFLOCGrAAAAAam4KXEA",
         "required": true
       },
       "QUEUE_LIMIT": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-        "value": "",
+        "value": "-1002013802221",
         "required": true
       }
     },
